@@ -1,0 +1,7 @@
+# File: backend/requirements.txt
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+openai
+PyMuPDF
